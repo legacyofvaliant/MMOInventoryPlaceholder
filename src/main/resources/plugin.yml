@@ -1,0 +1,6 @@
+name: MMOInventoryPlaceholder
+version: '${project.version}'
+main: net.nutchi.mmoinventoryplaceholder.MMOInventoryPlaceholder
+api-version: '1.19'
+depend: [ PlaceholderAPI ]
+softdepend: [ MMOInventory ]
