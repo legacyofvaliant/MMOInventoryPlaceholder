@@ -1,4 +1,4 @@
-package net.nutchi.mmoinventoryplaceholder;
+package com.github.e2318501.mmoinventoryplaceholder;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

@@ -1,4 +1,4 @@
-package net.nutchi.mmoinventoryplaceholder;
+package com.github.e2318501.mmoinventoryplaceholder;
 
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
 import org.bukkit.Material;
